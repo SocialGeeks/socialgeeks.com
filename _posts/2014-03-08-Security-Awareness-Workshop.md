@@ -21,3 +21,6 @@ Steve Reece has been a software developer for over 20 years. He has worked in me
 Ian Laird is the lead developer for Skytrace Inc. With 10+ years of application development experience and a long history of BIG DATA, his approach to software is a blend of the scientific process and creative artistic expression. Never asking why but always how, success over the impossible and elegance in code is what drives him.
 
 Dave Easterly has worked in technology since the days of compiling Linux 2.0.x kernels from source on Slackware 3.1.  He currently works for a major computer and technology company as a technology trainer specializing in Linux and Encryption.  He has worked as a Network and Systems Administrator in heterogeneous environments in the transportation and communications industries in addition to years of experience training technicians all over the United States, Canada, and India.  He currently holds a Red Hat Certified Systems Administrator certification as well Linux+ and LPIC-1 certifications.
+
+Dan Daggett is experienced in web and systems design. Dan's interests involve the collecting and sharing of knowledge in a variety of topics. His favorite being computer security and food. He enjoys open dialog with anybody willing to do so (and some that aren't).
+
