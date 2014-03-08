@@ -24,10 +24,25 @@ Dave Easterly has worked in technology since the days of compiling Linux 2.0.x k
 
 Dan Daggett is experienced in web and systems design. Dan's interests involve the collecting and sharing of knowledge in a variety of topics. His favorite being computer security and food. He enjoys open dialog with anybody willing to do so (and some that aren't).
 
+### Schedule  
+
+08:00 - Tin foil hats  
+08:30 - SELinux - Dave Easterly  
+10:00 - Software Development - Scott Nichols   
+10:30 - Web Penetration - Steve Reece  
+11:00 - Job Interviews - Marcus Downing  
+11:30 - Kerbal Space Program - Brent Dill  
+12:00 - Lunch  
+13:00 - Lightning talks  
+14:00 - Life of a Binary - Ian Laird  
+15:00 - Smash my Stack - Brian McManus  
+15:45 - Malware Lab - Dan Daggett, Ian Laird, Brian McManus, Brian Gergens  
+17:20 - Dinner  
+o_0 - go home  
+
 ### Sponsors  
 
 <div style="text-align:center;margin-top:50px;margin-bottom:20px;"><a target="_blank" href="http://kickbackpoints.com"><img src="/public/images/sponsors/krs_header_logo.png" alt="KickBack Points/KickBack Rewards Systems" title="KickBack Points/KickBack Rewards Systems" /></a></div>  
 
 <div style="text-align:center;margin-top:50px;margin-bottom:20px;"><a target="_blank" href="http://bestnotes.com"><img src="/public/images/sponsors/bestnotes_logo_web.png" alt="BestNotes CRM/EMR" title="BestNotes CRM/EMR" /></a></div>  
-
 
